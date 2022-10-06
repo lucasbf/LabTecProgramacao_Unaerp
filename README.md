@@ -4,3 +4,4 @@ Repositório da disciplina de Lab. de Técnicas de Programação do 2a etapa da 
 ### Exercícios Realizados
 
 * Exercício 5.
+* Exercício 8.
